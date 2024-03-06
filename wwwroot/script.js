@@ -5,8 +5,8 @@
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
 
-var x = canvas.width / 2;
-var y = canvas.height / 2;
+var x = 1400;//canvas.width / 2;
+var y = 800; // canvas.height / 2;
 
 drawSquare();
 
